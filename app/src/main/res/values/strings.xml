@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Country</string>
+    <string name="paisCodigo">Insira o código do país:</string>
+    <string name="botaoGo">Enviar</string>
+    <string name="example">Ex. Brasil = BR</string>
+    <string name="loadingText">Carregando</string>
+</resources>
